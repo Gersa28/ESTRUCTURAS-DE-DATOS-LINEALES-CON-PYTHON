@@ -21,7 +21,7 @@
   </tr>
   <tr>
     <td style="border: none; padding: 8px; text-align: left;"><strong>Cel:</strong> +54 9 3434599358</td>
-    <td style="border: none; padding: 12px; text-align: left;"><strong>Guía del Proyecto:</strong> Teoría y Tutorial</td>
+    <td style="border: none; padding: 12px; text-align: left;"><strong>Guía del Proyecto:</strong> </strong><a href=https://www.notion.so/german-salina/Estructuras-de-datos-lineales-con-Python-04a992a18df34a478fc5a13d7f87d7d5</a>Teoría y Tutorial</td>
   </tr>
 </table>
 
